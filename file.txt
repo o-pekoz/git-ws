@@ -1,5 +1,11 @@
+
 yunus
 durmus
 txt
 txt
 txt
+=======
+aaaa
+xxxx
+xxxx
+>>>>>>> ee9d6cee56da3775f8f199db4847f9b0f3975179
